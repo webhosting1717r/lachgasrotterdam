@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lachgasrotterdam.nl/sitemap.xml
